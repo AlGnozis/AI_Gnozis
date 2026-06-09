@@ -1,4 +1,4 @@
-# AI_Gnozis
+# AIGnozis
 Profile README — about me and what I do.
 
 ## Hi, I'm Alexander 👋
